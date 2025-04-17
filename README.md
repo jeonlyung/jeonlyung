@@ -1,23 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+<!-- 헤더 배너 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=120&section=header&text=Welcome%20to%20SangJae's%20GitHub!👋&fontSize=35&fontColor=ffffff&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SangJae+GitHub!👋)](https://git.io/typing-svg)
+---
 
+## 📊 GitHub Stats
 
-[![SangJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonlyung&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jeonlyung/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeonlyung&show_icons=true&theme=nord&hide_border=true&count_private=true&custom_title=SangJae's+GitHub+Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeonlyung&theme=nord&hide_border=true" height="180" />
+</p>
 
+---
 
+## 📫 Contact Me
 
-<!--
-**jeonlyung/jeonlyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✉️ Email: jeonlyung@gmail.com 
+- 🌍 Blog : *()*  
+- 🐙 GitHub: [@jeonlyung](https://github.com/jeonlyung)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 깔끔한 푸터 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=100&section=footer)
