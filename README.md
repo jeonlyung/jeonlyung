@@ -3,12 +3,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeonlyung&show_icons=true&theme=blue-green&hide_border=true&count_private=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonlyung&layout=compact&theme=blue-green&hide_border=true" height="180" />
-</p>
-
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
@@ -37,6 +31,9 @@
 </p>
 
 ---
+
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=jeonlyung&show_icons=true&theme=dark)
 
 <!-- 푸터 배너 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6699FF&height=100&section=footer)
